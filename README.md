@@ -12,8 +12,8 @@ The Azure Developer CLI (`azd`) is a developer-centric command-line interface (C
 
 You need to install it before running and deploying with Azure Developer CLI.
 
-### Windows
-
+### Windowsdsds
+dsd
 ```powershell
 powershell -ex AllSigned -c "Invoke-RestMethod 'https://aka.ms/install-azd.ps1' | Invoke-Expression"
 ```
